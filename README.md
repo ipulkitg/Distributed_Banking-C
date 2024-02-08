@@ -10,7 +10,7 @@ Customer Interactions: Customers can submit deposit and withdrawal requests, eac
 
 Branch Operations: Branches handle customer requests and maintain the overall account balance.
 
-Requirements
+Requirements- 
 To run the project, make sure you have the following dependencies installed:
 
 pip install grpcio grpcio-tools
